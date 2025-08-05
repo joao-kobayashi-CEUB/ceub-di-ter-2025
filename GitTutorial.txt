@@ -26,3 +26,8 @@ comando: git commit -m "comentário do commit"		-- commit -> "salvar" os arquivo
 
 
 -- *git status* mostra a situação atual do git entre os comandos
+
+
+por fim
+
+git push						-- manda os arquivos para a núvem
